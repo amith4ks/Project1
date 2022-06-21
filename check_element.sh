@@ -1,4 +1,5 @@
 #!/bin/bash
+#array of names
 name="Amith Girish Abhi Ramesh"
 read uname
 for i in $name
